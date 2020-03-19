@@ -1,0 +1,9 @@
+.btn.btn-link {
+    color: black;
+}
+
+.btn.btn-dark {
+    background: black;
+    border-color: black;
+    color: white;
+}
